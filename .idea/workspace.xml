@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ee0dd55-0da1-494a-b883-3a32d67bd646" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-pet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/configs/configs.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/email-action.constant.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/regex.constants.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/auth.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crons/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crons/reminder.cron.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/email-action.enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/toke-type.enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/user-role.enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/errors/api.error.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/actionToken.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/token.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/tokenPair.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/tokenPayload.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/user.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middlewares/common.middleware.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/action_token.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/token.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/user.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repositories/token.repository.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repositories/user.repository.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/auth.router.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/mail.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/password.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/token.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/user.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/layouts/another.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/layouts/main.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/partials/footer.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/partials/header.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/views/forgot.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/views/remind.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/views/welcome.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validators/user.validator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bRXNQ1Iea8L9RS6PFKwozNeX1i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "21.6.0",
+    "javascript.nodejs.core.library.typings.version": "20.11.10",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "ts.external.directory.path": "/Users/yevhenii_ivankin/Desktop/node-pet/node-pet/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ee0dd55-0da1-494a-b883-3a32d67bd646" name="Changes" comment="" />
+      <created>1706178824488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706178824488</updated>
+      <workItem from="1706178825477" duration="1836000" />
+      <workItem from="1706182471615" duration="94000" />
+      <workItem from="1706182582527" duration="35818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
